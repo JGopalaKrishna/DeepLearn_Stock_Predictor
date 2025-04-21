@@ -1,6 +1,7 @@
 # DeepLearn Stock Predictor 📈🧠
 
-A Deep Learning-based application that predicts future stock prices using historical data. Powered by LSTM neural networks, this tool enables users to upload stock datasets, train a model, and visualize predictions with ease.
+A Deep Learning-based application that leverages an LSTM model to forecast the closing prices of a stock for the next X days using historical data. It allows users to upload their own datasets, configure model settings, train the model, and visualize both actual and estimated prices through intuitive graphs, performance metrics, and future forecasts for X days.
+
 
 ---
 
@@ -55,3 +56,10 @@ A Deep Learning-based application that predicts future stock prices using histor
 - **scikit-learn**
 - **yfinance**
 - **Streamlit**
+
+---
+
+## 🔗 Live Demo
+
+Check out the live version of the app here:  
+👉 [DeepLearn Stock Predictor - Live App](https://jgopalakrishna-deeplearn-stockpredictor.streamlit.app/)
